@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "pvpbot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "pvpbot4983",
     "type": "offline"
   },
   "server": {
